@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Penguin Fashion</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="penguin-logo.png" alt="Penguin Fashion Logo">
+                <h1>Penguin Fashion</h1>
+            </div>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Product</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Contact us</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section class="product-section">
+        <div class="content">
+            <h2 class="product-name">NIKE REACT <br> INFINITY RUN 2</h2>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+            <a href="#" class="buy-now-btn">Buy Now</a>
+        </div>
+        <div class="product-image">
+            <img src="nike-react.png" alt="Nike React Infinity Run 2">
+        </div>
+    </section>
+</body>
+</html>
